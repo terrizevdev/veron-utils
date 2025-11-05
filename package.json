@@ -21,11 +21,11 @@
     "whatsapp",
     "bailey"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "terri",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/veron-utils"
+    "url": "https://github.com/terrizevdev/veron-utils"
   },
   "dependencies": {
     "file-type": "^18.0.0",
